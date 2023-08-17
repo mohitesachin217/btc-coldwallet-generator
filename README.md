@@ -18,4 +18,8 @@ Run
 
 3.To update your packages if required
     Navigate to the root of your git repo, where your composer.json file is.
-    Run "composer update" (on your local machine) to update the required packages and re-generate a composer.lock file.
+    
+Run 
+    composer update
+    
+(on your local machine) to update the required packages and re-generate a composer.lock file.
