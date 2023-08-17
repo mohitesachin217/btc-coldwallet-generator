@@ -13,7 +13,7 @@ Run
 
     "composer install" 
     
-    (on your local machine) to install the required packages and generate a composer.lock file.
+(on your local machine) to install the required packages and generate a composer.lock file.
 
 
 3.To update your packages if required
