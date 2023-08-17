@@ -10,13 +10,13 @@ Php version: PHP 7.3.6
 
 Download & Extract files.
 
-Verify that a composer.json file is present in the root of your git repository.
+    Verify that a composer.json file is present in the root of your git repository.
 
-Run "composer install" (on your local machine) to install the required packages and generate a composer.lock file.
+    Run "composer install" (on your local machine) to install the required packages and generate a composer.lock file.
 
 
 To update your packages if required
 
-Navigate to the root of your git repo, where your composer.json file is.
+    Navigate to the root of your git repo, where your composer.json file is.
 
-Run "composer update" (on your local machine) to update the required packages and re-generate a composer.lock file.
+    Run "composer update" (on your local machine) to update the required packages and re-generate a composer.lock file.
