@@ -21,6 +21,6 @@ Run
     
 Run 
 
-    composer update
+        composer update
     
 (on your local machine) to update the required packages and re-generate a composer.lock file.
