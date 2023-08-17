@@ -8,6 +8,7 @@ Php version: PHP 7.3.6
 
 2.Download & Extract files.
 Verify that a composer.json file is present in the root of your git repository.
+
     Run 
     "composer install" 
     (on your local machine) to install the required packages and generate a composer.lock file.
