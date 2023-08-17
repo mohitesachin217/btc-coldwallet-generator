@@ -1,0 +1,6 @@
+{
+  "require": {
+    "bitwasp/bitcoin": "1.0.4",
+    "mdanter/ecc": "^0.5.2"
+  }
+}
